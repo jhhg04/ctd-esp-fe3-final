@@ -27,7 +27,7 @@ git clone https://github.com/DH-Esp-Frontend/ctd-esp-fe3-final
 cd ctd-esp-fe3-final
 
 # elimina los links al repositorio de DH
-git remote remove origin
+git remove rm origin
 
 # Agrega el link al repositorio de tu cuenta de github, reemplaza <tuusuario> por tu cuenta
 git remote add origin https://github.com/<tuusuario>/ctd-esp-fe3-final
@@ -90,13 +90,14 @@ Ver [Desarrollo](docs/desarrollo.md).
 
 ### Fecha de Entrega
 
-Solo se admitirán entregas recibidas hasta el cierre de la clase 16, clase de Evaluación Final. 
+Solo se admitirán entregas recibidas hasta el cierre de la clase 24, clase de Evaluación Final. 
 
 ### Formato de Entrega
 
 Se aceptará la entrega mediante la submisión de dos URLs 
 
-* URL de un repositorio de Github Privado, que haya compatido acceso al profesor a cargo de la comisión.
+* URL de un repositorio de Github Privado, que haya compatido acceso a las siguientes cuentas: 
+  * Camada 1 - Profesor: Tomás de Priede - Cuenta de Github [@tomiito](https://github.com/tomiito)
 
 * URL del Vercel donde el proyecto se encuentre desplegado y funcionando para su evaluación.
 
